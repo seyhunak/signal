@@ -1,0 +1,25 @@
+{
+  "$schema": "https://skills.sh/schema.json",
+  "name": "signal-os",
+  "description": "100% Signal OS — Decision agent that fetches emails, calendar, tasks, and OKRs via Composio MCP, scores against your mission, and outputs a strict signal report saved to Obsidian.",
+  "version": "1.0.0",
+  "author": "Seyhun Akyurek",
+  "license": "MIT",
+  "keywords": [
+    "signal",
+    "decision",
+    "okr",
+    "composio",
+    "obsidian",
+    "daily-brief",
+    "priority"
+  ],
+  "agents": [
+    "claude-code",
+    "opencode",
+    "cursor",
+    "codex",
+    "windsurf",
+    "amp"
+  ]
+}
