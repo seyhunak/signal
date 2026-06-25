@@ -2,7 +2,7 @@
 
 ## What is Signal?
 
-A decision agent that fetches your emails, calendar, tasks, and OKRs — scores every item against your mission — and outputs a strict signal report in under 250 words.
+A decision agent that fetches your emails, calendar, tasks, and OKRs — scores every item against your mission — and outputs a strict signal report in under 500 words.
 
 **Signal density over volume. Mission alignment over busyness.**
 
@@ -123,7 +123,7 @@ Edit `config.json`:
   "obsidian_vault": "YOUR_OBSIDIAN_VAULT_PATH_HERE",
   "email_filter": "is:unread newer_than:1d",
   "calendar_range": "current_week",
-  "max_output_words": 250,
+  "max_output_words": 500,
   "critical_threshold": 80,
   "supporting_threshold": 60,
   "neutral_threshold": 40,
