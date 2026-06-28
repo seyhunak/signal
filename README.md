@@ -6,7 +6,9 @@ A decision agent that fetches your emails, calendar, tasks, and OKRs — scores 
 
 **Signal density over volume. Mission alignment over busyness.**
 
-![100% Signal Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" alt="Signal Logo" width="240" height="240">
+</p>
 
 ## Why Signal?
 
@@ -15,7 +17,16 @@ A decision agent that fetches your emails, calendar, tasks, and OKRs — scores 
 
 Kevin O'Leary's claim that Musk operates at 100% Signal raises a fundamental question: Can a human truly function without any noise? The answer lies not in complete elimination of distractions, but in redefining what Signal means. For Musk, even "relaxation" is strategically planned Signal.
 
-[![Kevin O'Leary: The 100% Signal Philosophy](https://img.youtube.com/vi/mpAZehPviLQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mpAZehPviLQ)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mpAZehPviLQ">
+    <img
+      src="https://img.youtube.com/vi/mpAZehPviLQ/maxresdefault.jpg"
+      alt="Kevin O'Leary: The 100% Signal Philosophy"
+      width="640"
+      height="360"
+    />
+  </a>
+</p>
 
 *Credits to and inspired by:*
 - **The Diary Of A CEO** @TheDiaryOfACEO
